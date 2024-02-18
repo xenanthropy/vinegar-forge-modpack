@@ -1,0 +1,13 @@
+name = "Engineers Workshop Reborn"
+filename = "EngineersWorkshopReborn-1.12.2-1.0.9.40.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5e3f62aa56bef4c93fbd2598e2363ebbbdac37c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2641884
+project-id = 282354

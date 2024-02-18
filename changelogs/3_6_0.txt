@@ -1,0 +1,25 @@
+3.6.0 Update
+
+Updated Forge to 14.23.5.2858
+
+Mods Added: FTB Auxilium
+
+Mods Updated:
+
+    Bibliocraft
+    Biomes O' Plenty
+    Brandon's Core
+    CraftTweaker
+    Draconic Evolution
+    Immersive Petroleum
+    Industrial Wires
+    Modtweaker
+    Mysticallib
+    Tesla Core lib
+    Torchmaster
+    UniDict
+    WanionLib
+
+Changes:
+
+  * Fixed Applied Energistics Pure Seeds not being able to be crafted in Thermal Insolator

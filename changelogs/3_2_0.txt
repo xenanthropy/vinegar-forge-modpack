@@ -1,0 +1,53 @@
+3.2.0 Update
+
+
+Mods Added:
+-Phosphor (Lighting fixes that improves preformance)
+	-phosphor-1.12.2-0.2.6+build50-universal.jar
+
+
+Mods Updated:
+-FORGE 14.23.5.2846
+-ActuallyAdditions-1.12.2-r150.jar 
+-appliedenergistics2-rv6-stable-7.jar 
+-architecturecraft-1.12-3.98.jar 
+-astralsorcery-1.12.2-1.10.20.jar 
+-BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar 
+-buildcraft-all-7.99.24.2.jar 
+-cc-tweaked-1.12.2-1.84.0.jar 
+-CodeChickenLib-1.12.2-3.2.3.357-universal.jar 
+-DankNull-1.12.2-1.6.77.jar 
+-Draconic-Evolution-1.12.2-2.3.24.349-universal.jar 
+-EnderCore-1.12.2-0.5.68.jar 
+-EnderIO-1.12.2-5.1.51.jar 
+-EnderStorage-1.12.2-2.4.6.137-universal.jar 
+-forestry_1.12.2-5.8.2.394.jar 
+-ForgeMultipart-1.12.2-2.6.2.83-universal.jar 
+-FTBLib-5.4.3.133.jar 
+-FTBUtilities-5.4.0.102.jar 
+-FTBUtilitiesBackups-1.0.0.5.jar 
+-ImmersiveEngineering-0.12-91.jar 
+-industrialcraft-2-2.8.187-ex112.jar 
+-ironchest-1.12.2-7.0.72.847.jar 
+-journeymap-1.12.2-5.5.5.jar 
+-minetogether-1.10.2-2.2.0-RC6.jar 
+-mysticallib-1.12.2-1.3.6.jar 
+-Pam's HarvestCraft 1.12.2zf.jar 
+-Patchouli-1.0-20.jar 
+-Quark-r1.6-177.jar 
+-randompatches-1.12.2-1.18.1.1.jar 
+-RebornCore-1.12.2-3.16.0.469-universal.jar 
+-Reliquary-1.12.2-1.3.4.796.jar 
+-rustic-1.1.1.jar 
+-SimplyJetpacks2-1.12.2-2.2.13.66.jar 
+-StorageDrawers-1.12.2-5.4.0.jar 
+-torchmaster_1.12.2-1.8.0.79.jar 
+-Translocators-1.12.2-2.5.2.81-universal.jar 
+-twilightforest-1.12.2-3.9.984-universal.jar
+
+
+Changes:
+-Fixed Rustic rope recipe conflict
+-Added NetherQuartz/FluixDust/CertusQuart to IC2 macerator
+-Added Thermal Foundation Steel Shovel to RC Adv. Loader/Unloader recipe
+-Disable Twilight Forest Uncrafting Table due to recipe exploits-

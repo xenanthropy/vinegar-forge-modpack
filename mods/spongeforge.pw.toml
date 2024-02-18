@@ -1,0 +1,7 @@
+name = "spongeforge"
+filename = "spongeforge-1.12.2-2838-7.4.8-RC4142.jar"
+
+[download]
+url = "https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.8-RC4142/spongeforge-1.12.2-2838-7.4.8-RC4142.jar"
+hash-format = "sha256"
+hash = "a51e1c6aaa44e7c9048ba073167e889ae6b09bb38433f345181048828b6b5d2c"

@@ -1,0 +1,13 @@
+name = "Soul Shards Respawn"
+filename = "SoulShardsRespawn-1.12.2-1.1.1-13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4fef3655c01f47bf2f8c792569a221db22e9554"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2741336
+project-id = 291549

@@ -1,0 +1,17 @@
+name = "Ding (Forge)"
+filename = "Ding-1.12.2-1.0.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "1939ac649c1d6ed0cd9fca8afefc48795fbdb18f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2801170
+project-id = 231275
+
+[option]
+optional = true
+description = "plays a ding noise whenever minecraft reaches the title screen\n\n(Highly recommended, forge loads incredibly slow)"

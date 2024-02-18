@@ -1,0 +1,13 @@
+name = "Tick Dynamic"
+filename = "TickDynamic-1.12.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b26689e317acde574fa27e8063ed26ba524a2091"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3271509
+project-id = 269359

@@ -1,0 +1,13 @@
+name = "Long Fall Boots"
+filename = "longfallboots-1.2.1b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7d7627c806947e926594a64bffc1b9a09a7467e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2595728
+project-id = 254032

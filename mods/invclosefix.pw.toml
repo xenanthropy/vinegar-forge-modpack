@@ -1,0 +1,17 @@
+name = "Inventory close with mouse key fix"
+filename = "invclose-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oyKiO6Ag/versions/0.0.1/invclose-1.0.jar"
+hash-format = "sha1"
+hash = "fa4b59056a963a02ad1d569ef3ebf99133e473d0"
+
+[update]
+[update.modrinth]
+mod-id = "oyKiO6Ag"
+version = "PtXtfkHT"
+
+[option]
+optional = true
+description = "Allows you to close your inventory with a key bound to a mouse button"

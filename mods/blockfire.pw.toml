@@ -1,0 +1,13 @@
+name = "BlockFire"
+filename = "blockfire-1.0.1-1.12.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/U07Bnq1K/versions/1.0.1/blockfire-1.0.1-1.12.2.jar"
+hash-format = "sha1"
+hash = "e369f173e0cf25b404d55a3f1fd1355bbc8f5a16"
+
+[update]
+[update.modrinth]
+mod-id = "U07Bnq1K"
+version = "XLfmcK62"

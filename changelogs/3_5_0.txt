@@ -1,0 +1,107 @@
+3.5.0 Update
+
+Updated Forge to 14.23.5.2855
+
+Mods Added:
+
+    Advanced Solar Panels Patcher
+    Advanced Machines Patcher
+    Just Enough Energistics
+    Plethora Peripherals
+
+Mods Updated:
+
+    Actually Additions
+    AppleSkin
+    Aroma1997Core
+    Astral Sorcery
+    BadWitherNoCookie Reloaded
+    Better Builders Wands
+    Binnie Mods
+    Biomes o' Plenty
+    Blood Magic
+    Bookshelf
+    Botania
+    Brandons Core
+    Buildcraft
+    CC Tweaked
+    Chisel
+    CodeChickenLib
+    CoFH Core
+    CoFH World
+    Conarm
+    Controlling
+    Cooking For Blockheads
+    CraftTweaker 2
+    CTM
+    Custom Main Menu
+    Dark Utilities
+    Draconic Evolution
+    ElecCore
+    Ender Core
+    EnderIO
+    Engineers Doors
+    Exchangers
+    Extreme Reactors
+    Fast Workbench
+    Flux Networks
+    FoamFix
+    Forestry
+    Forgelin
+    FTB Utilities
+    GunpowderLib
+    Harvest
+    Immersive Engineering
+    Industrial Craft 2
+    Integration Foregoing
+    JEHC
+    JEI
+    JEI Integration
+    Journeymap
+    Lost Cities
+    Imersive Engineering
+    Magic Bees
+    MineTogether
+    ModTweaker
+    MTLib
+    MysticalLib
+    Nature's Compass
+    Pam's HarvestCraft
+    Patchouli
+    Quark
+    Random Patches
+    Reborn Core
+    Reborn Storage
+    Redstone Arsenal
+    Redstone Flux
+    RFTools
+    Rustic
+    Simply Jetpacks 2
+    Steve's Carts
+    Storage Drawers
+    Tinkers Construct
+    Tesla Core Lib
+    Thermal Cultivation
+    Thermal Dynamics
+    Thermal Expansion
+    Thermal Foundation
+    Thermal Innovation
+    TOP Addons
+    Torchmaster
+    Twilight Forest
+    UniDict
+    WanionLib
+    Waystones
+    XTones
+    YABBA
+    Zerocore
+
+Mods Removed:
+
+    FTB Guides
+
+Changes: 
+* Disabled Oil wells from spawning in Twilight Forest Disabled Rubber Trees from IC2
+  from spawning in Twilight Forest Updated Issue Tracker link in the main menu
+* Added a use for Zinc Grains Added a new recipe for mossy stone brick stairs
+* Changed Immersive Engineering to prefer Thermal Foundation metals

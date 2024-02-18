@@ -1,0 +1,13 @@
+name = "Thaumic Terminal"
+filename = "ThaumicTerminal-1.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b78f45e0aed9c3d17767a23c4d96e0ce1562d6f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2702806
+project-id = 297365

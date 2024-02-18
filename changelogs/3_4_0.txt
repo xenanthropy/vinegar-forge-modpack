@@ -1,0 +1,28 @@
+3.4.0 Update
+
+Mods Updated:
+AE2WTLib-1.12.2-1.0.34.jar
+Computronics-1.12.2-1.6.6.jar
+DankNull-1.12.2-1.7.101.jar
+FTBBackups-1.1.0.1.jar
+FTBLib-5.4.7.2.jar
+FTBUtilities-5.4.1.130.jar
+MineTogether-1.12.2-2.4.1.jar
+p455w0rdslib-1.12.2-2.3.161.jar
+phosphor-forge-mc1.12.2-0.2.7-universal.jar
+refinedstorage-1.6.16.jar
+refinedstorageaddons-0.4.5.jar
+WirelessCraftingTerminal-1.12.2-3.12.97.jar
+
+
+Changes:
+Fixed Steel Item Casing recipe only accepting new hammers.  #422
+Added ToolTip to Flux. #421
+Added smelting recipe for Pam's flour to bread. #420
+Disabled EnderIO bottleFluidHandler should fix. #418
+Fixed Slimey Generator recipe. #408
+Changed the recipe of Tinker's Item rack due to recipe conflict. #407
+Fixed empty Universal fluid cell not showing in JEI #403
+Fixed Iridium Reinforced Plate recipe
+Fixed Jetpack Attachment recipe
+Blacklisted some blocks from being moved with Displacement Wand

@@ -1,0 +1,17 @@
+name = "McMouser"
+filename = "mcmouser-1.12.2-forge-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aXReRvgU/versions/1.12.2-forge-1.0.2/mcmouser-1.12.2-forge-1.0.2.jar"
+hash-format = "sha1"
+hash = "bb4077cd098e3c179dec443b42bcc52d58228895"
+
+[update]
+[update.modrinth]
+mod-id = "aXReRvgU"
+version = "SOJRZK0C"
+
+[option]
+optional = true
+description = "Fixes various mouse bugs on macOS"

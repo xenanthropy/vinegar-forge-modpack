@@ -1,0 +1,13 @@
+name = "ftb-revelation"
+author = "FTB Team"
+version = "3.6.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e5db43b0e4621d54b073130c71bfc7035459819a44e464bc7ed6667298b6092c"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

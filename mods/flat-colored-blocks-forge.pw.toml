@@ -1,0 +1,13 @@
+name = "Flat Colored Blocks - For Forge"
+filename = "flatcoloredblocks-mc1.12-6.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b6ae9ad1b622a65f988c887b34f7d64a5e2562a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2715827
+project-id = 238590

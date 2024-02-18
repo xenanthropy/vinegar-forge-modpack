@@ -1,0 +1,13 @@
+name = "Thaumcraft 6 Aspects for JEI"
+filename = "tc6aspects4jei-0.0.2a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b72ee618362916608bfb756ec863380341623b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2579495
+project-id = 295765

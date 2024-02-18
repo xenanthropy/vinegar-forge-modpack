@@ -1,0 +1,17 @@
+name = "Nothirium"
+filename = "Nothirium-1.12.2-0.3.4-beta.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "13efe282ab661ae3b9917b75520975d33434bdc8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4710696
+project-id = 624960
+
+[option]
+optional = true
+description = "Changes minecraft's chunk rendering engine to use modern OpenGL which greatly increases performance\n\nCompatibility issues:\nOptifine: Smart Animations must be disabled. Also, custom block render layer doesn't work.\nVanillaFix: textureFixes must be disabled"

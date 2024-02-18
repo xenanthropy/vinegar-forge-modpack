@@ -1,0 +1,13 @@
+name = "Industrial Wires"
+filename = "IndustrialWires-1.7-35.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "139ef95726020daf2695255985c7c11aefb60ff1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2660427
+project-id = 251121
