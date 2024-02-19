@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
 file = "animation/000.png"
 hash = "6dce8e0443b1995f86967994717f46cfd109fa94b3b3f8f5aa0ea52c5aa322b1"
 
@@ -4185,6 +4189,11 @@ hash = "d4891e4c97a9b91f8cb14cd939e064c3c5fb59d2721762d24541c61fc15bca1c"
 metafile = true
 
 [[files]]
+file = "mods/lunatriuscore.pw.toml"
+hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
+metafile = true
+
+[[files]]
 file = "mods/magic-bees.pw.toml"
 hash = "c99d580a36c994962af99450073ccfc5dc95669e9151cfe6fbfebcb73d4c2663"
 metafile = true
@@ -4507,6 +4516,11 @@ metafile = true
 [[files]]
 file = "mods/rustic.pw.toml"
 hash = "183173e77c1218a84e37a06ce2eccc3cda67771e067bfa07ba9e434b728f4207"
+metafile = true
+
+[[files]]
+file = "mods/schematica.pw.toml"
+hash = "a3aa2700b4d47293eba2287a0931959d13cda946c8a372f933faf747c51a5286"
 metafile = true
 
 [[files]]
