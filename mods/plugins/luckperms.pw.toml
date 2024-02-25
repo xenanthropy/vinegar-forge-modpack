@@ -1,0 +1,8 @@
+name = "luckperms"
+filename = "download"
+side = "server"
+
+[download]
+url = "https://ore.spongepowered.org/Luck/LuckPerms/versions/5.3.98/download"
+hash-format = "sha256"
+hash = "a87fa6db4370531ebe1a0593b710700287f351db757a539a1af388786e815892"

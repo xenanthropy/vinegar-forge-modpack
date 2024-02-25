@@ -14,4 +14,4 @@ project-id = 624960
 
 [option]
 optional = true
-description = "Changes minecraft's chunk rendering engine to use modern OpenGL which greatly increases performance\n\nCompatibility issues:\nOptifine: Smart Animations must be disabled. Also, custom block render layer doesn't work.\nVanillaFix: textureFixes must be disabled"
+description = "Changes minecraft's chunk rendering engine to use modern OpenGL which can greatly increase performance\n\nCompatibility issues:\nOptifine: Smart Animations must be disabled. Also, custom block render layer doesn't work.\n\n(Your mileage may vary with this, it reduced my FPS by 40%\nFeel free to test on your own system)"

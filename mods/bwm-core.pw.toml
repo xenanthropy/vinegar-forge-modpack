@@ -1,0 +1,13 @@
+name = "Better With Lib (BWM - Core)"
+filename = "BetterWithLib-1.12-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5bdf3c80660753158f4a92ab063a9799341813d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2624990
+project-id = 294335

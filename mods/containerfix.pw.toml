@@ -1,6 +1,6 @@
 name = "ContainerFix"
 filename = "ContainerFix MC1.12.2 v1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "darkitsuki",
+      "uniqueId": "ac97bc5a-a5f3-42ee-8b1a-a26932b69254"
+    },
+    "time": 1708288978666,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/PBJPZxaXWS"
+    }
+  }
+]

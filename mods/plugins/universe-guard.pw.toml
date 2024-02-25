@@ -1,0 +1,8 @@
+name = "universe-guard"
+filename = "download"
+side = "server"
+
+[download]
+url = "https://ore.spongepowered.org/Francesco_Jimi/Universe-Guard/versions/2.35/download"
+hash-format = "sha256"
+hash = "45a88351887ecdfcae144431d5c4a98dfa72b19cdc285744e53f99dcdb46428a"

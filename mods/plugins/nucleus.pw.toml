@@ -1,0 +1,8 @@
+name = "nucleus"
+filename = "download"
+side = "server"
+
+[download]
+url = "https://ore.spongepowered.org/Nucleus/Nucleus/versions/2.4.2/download"
+hash-format = "sha256"
+hash = "7c3a172b8ed3e35498b176ff92b8a4ae7633153b875c2bfe9a7133e24e24d3ca"

@@ -1,0 +1,13 @@
+name = "ClearLag"
+filename = "CatClearLag-0.9.5.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "4df77f165e967941dc11069f7d05fd6c038183ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2961266
+project-id = 383639

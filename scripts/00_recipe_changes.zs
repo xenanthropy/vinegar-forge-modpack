@@ -231,23 +231,6 @@ recipes.addShaped(<rustic:rope> * 24,
 	]
 );
 
-	#Fix RC loader/Unloader steel shovels
-recipes.addShaped(<railcraft:manipulator:3>,
-	[
-		[<ore:ingotSteel>, <ore:dustRedstone>, <ore:ingotSteel>],
-		[<ore:dustRedstone>, <railcraft:manipulator:1>, <ore:dustRedstone>],
-		[<ore:ingotSteel>, <thermalfoundation:tool.shovel_steel>, <ore:ingotSteel>]
-	]
-);
-
-recipes.addShaped(<railcraft:manipulator:2>,
-	[
-		[<ore:ingotSteel>, <ore:dustRedstone>, <ore:ingotSteel>],
-		[<ore:dustRedstone>, <railcraft:manipulator>, <ore:dustRedstone>],
-		[<ore:ingotSteel>, <thermalfoundation:tool.shovel_steel>, <ore:ingotSteel>]
-	]
-);
-
 	#Fix broken recipe
 recipes.remove(<extrautils2:machine>.withTag({Type: "extrautils2:generator_slime"}));
 recipes.addShaped(<extrautils2:machine>.withTag({Type: "extrautils2:generator_slime"}), 
@@ -264,11 +247,6 @@ recipes.addShaped(<tconstruct:rack>.withTag({textureBlock: {id: "minecraft:woode
 	[
 		[<minecraft:wooden_slab>, <minecraft:stick>, <minecraft:wooden_slab>]
 	]
-);
-
-	#Fix Zinc Grains being useless
-recipes.addShapeless(<railcraft:ingot:8>,
-	[<extrabees:misc:14>]
 );
 
 	#Fix Mossy Stone Brick Stair recipe
