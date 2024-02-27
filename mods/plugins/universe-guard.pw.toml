@@ -1,5 +1,5 @@
 name = "universe-guard"
-filename = "download"
+filename = "UniverseGuard-2.35.jar"
 side = "server"
 
 [download]

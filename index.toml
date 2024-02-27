@@ -4690,17 +4690,17 @@ metafile = true
 
 [[files]]
 file = "mods/plugins/luckperms.pw.toml"
-hash = "e03a201407886dad4df5687791ed7b9c56467796130552da9c7101e512d1f559"
+hash = "39f77720eea1e637fa9d4a7bbb61736fe4af0829ecbbb8bb43c26c4c2896c02b"
 metafile = true
 
 [[files]]
 file = "mods/plugins/nucleus.pw.toml"
-hash = "141d70e7b21498d82c10417f1da3c8f5425db97523ea8175c9d1247c67c562b5"
+hash = "b54a402eb4a017f959efd9ea7be66dcfaa376890f9fc2b7340622a4c83a081f6"
 metafile = true
 
 [[files]]
 file = "mods/plugins/universe-guard.pw.toml"
-hash = "b3a287ae889b387fa2fdef19e536bae4112335c8328c1b29a690a17557606575"
+hash = "03be0927eea363782ad86bba02eb77bc68bf3e2a4071b8856347cd8b7ecf2b53"
 metafile = true
 
 [[files]]

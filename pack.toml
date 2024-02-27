@@ -1,12 +1,12 @@
-name = "ftb-revelation"
-author = "FTB Team"
+name = "vinegar-forge-edition"
+author = "VinegarHQ"
 version = "3.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fa7f42e04cef142a9f0c463e0cbf0acc5574ff0726f5c5cc1833690e1c7e01a4"
+hash = "ffaf0b32cb826322b2c42ec845c19a4927b0c364c4e52c73ffa5c7d6a80518f8"
 
 [versions]
 forge = "14.23.5.2860"
