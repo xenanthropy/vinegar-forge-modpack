@@ -14,4 +14,4 @@ project-id = 495693
 
 [option]
 optional = true
-description = "client-side mod which lets you see farther on servers than the servers view distance.\nIt works by having the client keep the chunks even when the server\nunloads them, up to a max distance of 64 chunks(configurable)."
+description = "client-side mod which lets you see farther on servers than the servers view distance.\nIt works by having the client keep the chunks even when the server\nunloads them, up to a max distance of 64 chunks (configurable)."

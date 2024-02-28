@@ -4189,6 +4189,11 @@ hash = "a9a80751bce6b64e5500ccd806b28b44f14e9960cb2ab1b4f6eca8cf771a9c99"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "7f149f4b4e6c52b9355c8ccb823820ccd3acb5d9b2435542b3861bf2a3fd2c65"
+metafile = true
+
+[[files]]
 file = "mods/deep-resonance.pw.toml"
 hash = "80e391efc47eaf0f94808db10a6088168783d0bde751a97963d9f5d2786993ef"
 metafile = true
@@ -4290,7 +4295,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "b424930885a8d47c39af7b2cc9d288491cc32ae4525d0881893d8ed49a2f6ea6"
+hash = "0961b7c8094e06b42856da96ccb75082b3b2b40f3af7326a2daf454dfefb2136"
 metafile = true
 
 [[files]]
@@ -4326,6 +4331,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-legacy-forge.pw.toml"
 hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "98ce0745c39570074e48d503da5fd3f97952ac3f7fcccc363365f08295c41e6e"
 metafile = true
 
 [[files]]
@@ -4764,11 +4774,6 @@ hash = "1b49f8635d5003e16b77a59069677ae7268b90b2494f508dc5fe5db239d9d3db"
 metafile = true
 
 [[files]]
-file = "mods/raw-input-1-12-2.pw.toml"
-hash = "6a0d0d389e19a1e018049ed8180ede0a86178ab0fe44878bcf4c825626607b19"
-metafile = true
-
-[[files]]
 file = "mods/reauth.pw.toml"
 hash = "a838f03dba134738d13747ea4f70a3dcdcc92fda838024fac85288e7c19c4e54"
 metafile = true
@@ -4939,6 +4944,11 @@ hash = "b9d564847fd7fabd6f9d65f001d1da9c2d1c03e5df5d9d258db713b4f145d1d0"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "e0baa0f2e724eb09fb9bb18e825a842e1883662d8bcc4506e7dfd262250a7bf7"
+metafile = true
+
+[[files]]
 file = "mods/tesla-core-lib.pw.toml"
 hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
 metafile = true
@@ -5076,6 +5086,11 @@ metafile = true
 [[files]]
 file = "mods/translocators-1-8.pw.toml"
 hash = "e20c672b807a489407d4a11c6a0767f554d6ae5c97afb265388311611219bdbd"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "bbe76d22ce06aa6ba7fed1062d590436fc3f05b5eb7d7b12dec76558f4e4f607"
 metafile = true
 
 [[files]]
