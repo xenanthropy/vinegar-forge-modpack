@@ -421,10 +421,6 @@ file = "config/AppliedEnergistics2/VersionChecker.cfg"
 hash = "6844c1419ce367c8d3ecbb41dba2c6629d2f38efec7e440926a049198e69a4cd"
 
 [[files]]
-file = "config/AppliedEnergistics2/aerecipes/README.html"
-hash = "a48ab2d550bd771c56536ca2cbc148d81e1b8beff257d6a15fac03226b63f4be"
-
-[[files]]
 file = "config/AppliedEnergistics2/aerecipes/generated/aliases.recipe"
 hash = "4df8d9a1ad27a6af5c97de2a5562f677abf740fd850a4f84b95ffd9932ebbe58"
 
