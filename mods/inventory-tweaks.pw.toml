@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 2923460
 project-id = 223094
+
+[option]
+optional = true
+description = "Allows inventory sorting - disable if you crash when changing your keybindings"
