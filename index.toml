@@ -4020,11 +4020,6 @@ hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
 metafile = true
 
 [[files]]
-file = "mods/born-in-a-barn.pw.toml"
-hash = "535b5918f62e94b6cf6f7fd3095e106e8e71630cc0183d3614fa39f54a2438f7"
-metafile = true
-
-[[files]]
 file = "mods/botania.pw.toml"
 hash = "96de7b241688c8771621d9ef3dcc4eb565389739196334bea745043375dbc03a"
 metafile = true
@@ -4597,11 +4592,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
-metafile = true
-
-[[files]]
-file = "mods/netherportalfix.pw.toml"
-hash = "99e3aef9cdb0bd8189da4cab3955c300f824238edd1a85471ed45208fdb4a8b0"
 metafile = true
 
 [[files]]
