@@ -3886,7 +3886,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-extended-life.pw.toml"
-hash = "e0c96ee41cc1231290405a50c15cc822a77549269808e6e4fbdb703b6bdc8c56"
+hash = "8b79fcc21c64e6dc51a86cfda1d7a6217bdbdbfab876c82de4b3bb5afb2df09b"
 metafile = true
 
 [[files]]
@@ -4336,7 +4336,7 @@ metafile = true
 
 [[files]]
 file = "mods/future-mc.pw.toml"
-hash = "3d61c7ba155f932e21884f5529e693cd1727778756462b7d5bffdfbf99e6a967"
+hash = "99f5e34acfc843c862c1b9971f201600c943062b020eb9af551dfe90251ab523"
 metafile = true
 
 [[files]]
@@ -4451,7 +4451,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "9a4e81d9936e30393968afd7adb1b5337fbc3211f22f2c4e70c77db50678d3ae"
+hash = "fdc7c16deef289a8b6089d5eab3c6957f64650d2792d5e2398b8e4cf239cfbd4"
 metafile = true
 
 [[files]]
@@ -4481,7 +4481,7 @@ metafile = true
 
 [[files]]
 file = "mods/lolasm.pw.toml"
-hash = "b9d0fa17a02f9eb096c35e62624bbc34221c205c57c0599845ccf0f8c2a044ab"
+hash = "ff33ae608b34f10ad87ca68353824ddeba0d05f01eff89d704ed89ce0bc95ac2"
 metafile = true
 
 [[files]]
@@ -4961,7 +4961,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-augmentation.pw.toml"
-hash = "9d843d90a9332f4a9cde9d6675336b4fc4366d94628f50d29c7bf33f693122ef"
+hash = "12a5ada16581bf4e80303a7b132e204d323c582876b4ea34fd7b39b73a5ba0d6"
 metafile = true
 
 [[files]]
@@ -5081,7 +5081,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "6749adb94c8a2a84c1bb680b7430de8c089e810b7e4c1be49fd308813727cee9"
+hash = "408b3e0ec766d6b326433c106f68f57e4add18f9ec08b2b369e256fef6f94d43"
 metafile = true
 
 [[files]]
