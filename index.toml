@@ -3900,11 +3900,6 @@ hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
 
 [[files]]
-file = "mods/alfheim-lighting-engine.pw.toml"
-hash = "3075a36f91e843f68613ccdcb133c70e89e6fe7d015f9a454c9c600793c94ed3"
-metafile = true
-
-[[files]]
 file = "mods/angry-pixel-the-betweenlands-mod.pw.toml"
 hash = "1d3b0b677a306102a497aaeaf63b725a703bfdf3a053cfef8952bb256f8fe7d3"
 metafile = true
@@ -4662,11 +4657,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
-metafile = true
-
-[[files]]
-file = "mods/performant.pw.toml"
-hash = "908d3f1901ae0ecac3f132184652e075bad37583625efdf4e1169cc7e2737fc5"
 metafile = true
 
 [[files]]
