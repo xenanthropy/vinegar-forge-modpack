@@ -1,0 +1,13 @@
+name = "Born in a Barn"
+filename = "Born In A Barn 1.8-1.12-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a19c174eb4989d7ca33e6fcc543f44158ae8949"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4581880
+project-id = 285789
