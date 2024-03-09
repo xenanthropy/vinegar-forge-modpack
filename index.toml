@@ -3900,11 +3900,6 @@ hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
 
 [[files]]
-file = "mods/alfheim-lighting-engine.pw.toml"
-hash = "3075a36f91e843f68613ccdcb133c70e89e6fe7d015f9a454c9c600793c94ed3"
-metafile = true
-
-[[files]]
 file = "mods/angry-pixel-the-betweenlands-mod.pw.toml"
 hash = "1d3b0b677a306102a497aaeaf63b725a703bfdf3a053cfef8952bb256f8fe7d3"
 metafile = true
@@ -4022,11 +4017,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
-metafile = true
-
-[[files]]
-file = "mods/born-in-a-barn.pw.toml"
-hash = "535b5918f62e94b6cf6f7fd3095e106e8e71630cc0183d3614fa39f54a2438f7"
 metafile = true
 
 [[files]]
@@ -4605,11 +4595,6 @@ hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
 metafile = true
 
 [[files]]
-file = "mods/netherportalfix.pw.toml"
-hash = "99e3aef9cdb0bd8189da4cab3955c300f824238edd1a85471ed45208fdb4a8b0"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-wands.pw.toml"
 hash = "de7dd06a79b1bdba3139fda7a34347a81d02a66edd601325401ed13048141a6a"
 metafile = true
@@ -4662,11 +4647,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
-metafile = true
-
-[[files]]
-file = "mods/performant.pw.toml"
-hash = "908d3f1901ae0ecac3f132184652e075bad37583625efdf4e1169cc7e2737fc5"
 metafile = true
 
 [[files]]
