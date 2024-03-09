@@ -1,6 +1,6 @@
 name = "Alfheim Lighting Engine"
 filename = "Alfheim-1.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

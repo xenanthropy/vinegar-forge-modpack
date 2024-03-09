@@ -1,6 +1,6 @@
 name = "NetherPortalFix"
 filename = "NetherPortalFix_1.12.1-5.3.17.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

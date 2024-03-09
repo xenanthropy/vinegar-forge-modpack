@@ -3901,7 +3901,7 @@ metafile = true
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
-hash = "f87064eaadc9e8b765d00beab714fc44936e9d0a34676154cdf6f688ec8dc682"
+hash = "3075a36f91e843f68613ccdcb133c70e89e6fe7d015f9a454c9c600793c94ed3"
 metafile = true
 
 [[files]]
@@ -4026,7 +4026,7 @@ metafile = true
 
 [[files]]
 file = "mods/born-in-a-barn.pw.toml"
-hash = "e86b0efbbdaa466225d484b5585cf6b4874eb3d2eb30d59953fc1e5e7a98b80b"
+hash = "535b5918f62e94b6cf6f7fd3095e106e8e71630cc0183d3614fa39f54a2438f7"
 metafile = true
 
 [[files]]
@@ -4606,7 +4606,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
+hash = "99e3aef9cdb0bd8189da4cab3955c300f824238edd1a85471ed45208fdb4a8b0"
 metafile = true
 
 [[files]]
@@ -4666,7 +4666,7 @@ metafile = true
 
 [[files]]
 file = "mods/performant.pw.toml"
-hash = "5865f55ac3ee06486892780710061e5a93d803c16bfaa346520b4203c8f124fc"
+hash = "908d3f1901ae0ecac3f132184652e075bad37583625efdf4e1169cc7e2737fc5"
 metafile = true
 
 [[files]]

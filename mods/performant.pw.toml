@@ -1,6 +1,6 @@
 name = "Performant"
 filename = "performant-1.11.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

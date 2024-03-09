@@ -1,6 +1,6 @@
 name = "Born in a Barn"
 filename = "Born In A Barn 1.8-1.12-1.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
