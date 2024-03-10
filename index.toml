@@ -4335,6 +4335,11 @@ hash = "466b15cefb457971c6b7c3f8c351c22abeb0bfd6baaba60e5b3d3159910fb3ff"
 metafile = true
 
 [[files]]
+file = "mods/gotta-go-fast.pw.toml"
+hash = "10e7dd96c4a86323e349cfa478280a404d4a3822c70d3e0fc1a2063eaebfae12"
+metafile = true
+
+[[files]]
 file = "mods/gravitation-suite.pw.toml"
 hash = "4024335fdccfc77b5e0b8720450ac8875fdf8cb462613dd367a5a811094d5fc5"
 metafile = true
