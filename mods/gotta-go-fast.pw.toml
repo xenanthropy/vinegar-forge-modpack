@@ -1,6 +1,6 @@
 name = "Gotta Go Fast"
 filename = "gottagofast-1.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
